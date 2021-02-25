@@ -12,3 +12,6 @@ Im Making this Plugin now!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=highright1234&repo=ExCommand&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+I can use Python and Java.
+
+but my github is only have a Java..... LOL
