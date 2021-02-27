@@ -2,8 +2,8 @@
 
 Im Noob.... LOL
 
-Im Like Making Plugin and Game..
-and I am Like Game!
+Im Like Making Plugin and Game(but i dont make now Game.)..
+and I am Like Playing Game!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=highright1234&show_icons=true&theme=dark)
 
