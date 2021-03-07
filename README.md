@@ -17,8 +17,8 @@ I can use Python and Java.
 but my github is only have a Java..... LOL
 
 and I making minecraft server now.
-Maybe a minigame server? I think all in one server.
-I think my server will have 5 minigames?
+Maybe a minigame server. I think all in one server.
+I think my server will have 5 minigames.
 Um... u know my coding skill is suck but,
 I making plugins, and please let me know bad codes.
 Im making plugins at Netherald now.
