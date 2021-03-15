@@ -12,7 +12,7 @@ and I am like to Playing Game!
 
 Im Making this Plugin now!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=highright1234&repo=ExCommand&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=highright1234&repo=ExCommand&theme=dark)](https://github.com/highright1234/excommand)
 
 I can use Python and Java.
 
