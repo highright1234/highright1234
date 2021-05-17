@@ -4,7 +4,7 @@ Im Noob.... LOL
 My coding skill is suck
 So, let me know my plugins bad codes.
 
-I Like Making Plugin and Game(but i dont make now Game...)
+I Like Making Plugin and learn anythings
 and I like Playing Game!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=highright1234&show_icons=true&theme=dark)
