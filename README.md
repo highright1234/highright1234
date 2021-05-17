@@ -19,7 +19,7 @@ Im Making this Plugin now!
 I can use Python and Java.
 
 but my github is only have a Java..... LOL
-and i learn use docker
+and i learn docker now
 
 and I making minecraft server now.
 ----------
