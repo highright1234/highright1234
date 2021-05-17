@@ -26,7 +26,7 @@ Maybe a minigame server.
 I think minigames server in one server. (Like a survival server,minigame server)
 I think my server will have 5 minigames.
 Umm... u know my coding skill is suck.
-And I making plugins so, please let me know bad codes.
+So please let me know bad codes.
 Im making plugins at Netherald now.
 
 https://github.com/Netherald/
