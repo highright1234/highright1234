@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=true8&label=Profile%20views&color=0e75b6&style=flat" alt="true8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=true8" alt="true8" /></a> </p>
-
 - 🔭 I’m currently working on [Mine.js](https://github.com/Netherald/mine.js)
 
 - 🌱 I’m currently learning **TypeScript, React, Webpack, Babel etc**
