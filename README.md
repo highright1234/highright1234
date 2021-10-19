@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://namutree0345.xyz](https://namutree0345.xyz)
 
-- 📫 How to reach me **me@namutree0345.xyz or discord R2turnTrue#4567**
+- 📫 How to reach me **r3turntrue@gmail.com or discord R2turnTrue#4567**
 
 - ⚡ Fun fact **HTML is not a programming language**
 
