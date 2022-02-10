@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, NextJS, Rust**
 
-- 👨‍💻 All of my projects are available at [https://namutree0345.xyz](https://namutree0345.xyz)
+- 👨‍💻 All of my projects are available at [https://r2turntrue.xyz](https://r2turntrue.xyz) (not worked)
 
 - 📫 How to reach me **r3turntrue@gmail.com or discord R2turnTrue#4567**
 
