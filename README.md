@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mine.js](https://github.com/Netherald/mine.js)
 
-- 🌱 I’m currently learning **TypeScript, React, Webpack, Babel etc**
+- 🌱 I’m currently learning **React, NextJS, Rust**
 
 - 👨‍💻 All of my projects are available at [https://namutree0345.xyz](https://namutree0345.xyz)
 
