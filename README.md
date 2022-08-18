@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HighRight</h1>
-<h3 align="center">A numb developer</h3>
+<h3 align="center">A newb developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=highright1234&label=Profile%20views&color=0e75b6&style=flat" alt="highright1234" /> </p>
 
