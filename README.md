@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently burned out :(
 
-- 🌱 I’m currently learning **Elixir, Rust**
+- 🌱 I want to learn **Elixir, Rust** (but i dont have any energy to learn them :()
 
 - 📫 How to reach me **highright1234@gmail.com or discord HighRight#3924**
 
