@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=highright1234&label=Profile%20views&color=0e75b6&style=flat" alt="highright1234" /> </p>
 
-- 🔭 I’m currently burned out :(
+- 🔭 I’m currently making [Shotokonoko](https://github.com/highright1234/shotokonoko)
 
 - 🌱 I want to learn **Elixir, Rust** (but i dont have any energy to learn them :()
 
